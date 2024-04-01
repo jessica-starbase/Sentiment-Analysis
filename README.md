@@ -22,3 +22,4 @@ from sklearn.metrics import accuracy_score
 
 # Jupyter Lab
 <img width="1016" alt="Screenshot 2024-04-01 at 5 10 04 PM" src="https://github.com/jessica-starbase/Speech-Emotion-Recognition/assets/125201668/d7d3586b-d94c-4246-bac6-e5db3ea1414b">
+<img width="1099" alt="Screenshot 2024-04-01 at 5 12 23 PM" src="https://github.com/jessica-starbase/Speech-Emotion-Recognition/assets/125201668/080b6f48-e0d9-4b8c-ad54-41cffcc5f05b">
